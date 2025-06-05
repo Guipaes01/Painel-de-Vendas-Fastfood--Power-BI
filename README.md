@@ -23,6 +23,9 @@ Este projeto apresenta a construção de um painel interativo no Power BI basead
 - Linha 3: Gráfico de pizza por recebedor + linha temporal por período
 - Filtros: tipo de item, recebedor, período
 
+Dataset:
+https://www.kaggle.com/datasets/sujalsuthar/food-delivery-order-history-data
+
 ## ✍️ Autor
 
 Guilherme Paes – linkedin.com/in/paesgui
